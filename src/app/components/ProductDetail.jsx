@@ -21,7 +21,7 @@ const steps = [
   },
   {
     title: "SUNSET VILLA",
-    image: "/images/product_image_2.png",
+    image: "/images/product_image_4.png",
   },
   {
     title: "SUNSET VILLA",

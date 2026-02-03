@@ -7,11 +7,11 @@ import Loading from "./Loading";
 import HomeLanding from "./HomeLanding";
 import CardSection from "./CardSection";
 import ProductDetail from "./ProductDetail";
-import WeddingSection from "./WeddingSection";
 import HotelDetail from "./HotelDetail";
 import Testimonial from "./Testimonial";
 import Footer from "./Footer";
 import HotelMenu from "./HotelMenu";
+import Wedding from "./Wedding";
 
 const HomeAll = () => {
   const loaderRef = useRef(null);
@@ -86,7 +86,7 @@ const HomeAll = () => {
         <CardSection />
         <ProductDetail />
         <HotelMenu />
-        {/* <WeddingSection /> */}
+        <Wedding />
         <HotelDetail />
         <Testimonial />
         <Footer />
